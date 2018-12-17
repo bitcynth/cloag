@@ -1,0 +1,8 @@
+{
+	"name": "ABC Ltd",
+	"phone_number": "+123456789",
+	"email": "noc@example.com",
+	"phone_time": "10:00 to 15:00 UTC",
+	"contact_name": "Alice Smith",
+	"contact_title": "Head of Network Operations"
+}
